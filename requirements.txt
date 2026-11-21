@@ -1,0 +1,11 @@
+
+requests
+aiohttp
+beautifulsoup4
+pandas
+pydantic
+python-dotenv
+google-genai
+gspread
+tenacity
+tqdm
